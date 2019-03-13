@@ -1,5 +1,5 @@
 """
-Tittle: Assigment 5
+Title: Assignment 5
 Dev: Diego J. Carrasquillo
 
 In this activity you will learn to work with for Lists and Dictionaries.
